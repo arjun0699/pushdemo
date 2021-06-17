@@ -1,3 +1,6 @@
 Samosa
 idli
 dosa
+Fast1
+Fast2
+Fast5
